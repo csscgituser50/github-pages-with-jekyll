@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "FirstBlog"
 date: 2021-07-23
 ---
