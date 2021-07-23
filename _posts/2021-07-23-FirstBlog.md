@@ -1,5 +1,5 @@
 ---
-title:  "FirstBlog"
+title: "First Blog"
 date: 2021-07-23
 ---
 ## First Blog
